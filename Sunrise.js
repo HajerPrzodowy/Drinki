@@ -1,8 +1,10 @@
-function (chili)
+function(_chili)
 {}
-function (sok_pomarańczowy)
+function (_sok_pomarańczowy)
 {}
-function (syrop_malinowy)
+function(_syrop_malinowy)
 {}
-function (wodka)
+function(_wodka)
+{}
+function (_nalewka_pomarańczowa)
 {}
