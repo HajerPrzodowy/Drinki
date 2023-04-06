@@ -1,4 +1,4 @@
-{}
+function (_cola)
 {}
 function (_porzeczówka)
 {}
@@ -9,4 +9,6 @@ function (_wodka)
 function(_sok_porzeczkowy)
 {}
 function (_kostka_lodu)
+{}
+function (_szklanka)
 {}
