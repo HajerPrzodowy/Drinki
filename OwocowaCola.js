@@ -10,3 +10,5 @@ function(_sok_porzeczkowy)
 {}
 function(_aromat_porzeczkowy)
 {}
+function ()
+{}
