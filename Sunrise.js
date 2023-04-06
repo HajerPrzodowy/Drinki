@@ -8,3 +8,5 @@ function(_wodka)
 {}
 function (_nalewka_pomarańczowa)
 {}
+function (_sok_grejfrutowy)
+{}
